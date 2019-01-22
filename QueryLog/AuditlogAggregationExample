@@ -1,6 +1,6 @@
 /*
   <PURPOSE>
-  Example query that uses the BigQuery audit VIEW to investigate Query usage costs per set of tables in the SELECT /JOIN statement of th query
+  Example query that uses the BigQuery audit VIEW to investigate Query usage costs per set of tables in the SELECT /JOIN statement of the query
   </PURPOSE>
   <USAGE>
   -1st, create the auditlog view: https://github.com/RogerDataNL/BigQuerySQL/blob/master/QueryLog/AuditlogAggregation.sql
